@@ -1,0 +1,28 @@
+.AudioControls{
+    display: none;
+}
+
+
+#button5 {
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    width: 15px;
+    height: 15px;
+   
+    line-height: 1.33;
+    border-radius: 25px;
+   
+    cursor: pointer;
+}
+
+.redButton {
+    background-color: red;
+    
+}
+  
+.greenButton{
+    background-color: green;
+    
+}
+  
